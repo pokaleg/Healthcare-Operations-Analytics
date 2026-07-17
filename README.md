@@ -27,18 +27,13 @@ The dashboard enables stakeholders to monitor key healthcare metrics, evaluate h
 Healthcare-Operations-Analytics/
 │
 ├── README.md
-├── LICENSE
 │
 ├── data/
 │   └── Healthcare Analysis Dataset.xlsx
 │
 ├── powerbi/
-│   └── National_Health_Analysis.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── reports/
+   └── National_Health_Analysis.pbix
+
 ```
 
 ---
