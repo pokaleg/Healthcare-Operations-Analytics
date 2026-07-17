@@ -91,15 +91,7 @@ Healthcare-Operations-Analytics/
 
 ---
 
-## 📸 Dashboard Preview
 
-*(Add your Power BI dashboard screenshot here after exporting it.)*
-
-```markdown
-![Healthcare Dashboard](images/dashboard.png)
-```
-
----
 
 ## 💡 Key Insights
 
